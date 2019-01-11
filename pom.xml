@@ -3,7 +3,7 @@
    <groupId>cl.bice.core.activos.resumenoperfccactivos</groupId>
   <artifactId>ResumenOperFccActivos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>${project.artifactId}</name>
   
   <parent>
